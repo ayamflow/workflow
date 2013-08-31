@@ -24,7 +24,7 @@ This year has been an important one for me, in terms of of new skills & new tool
 #### Libraries and stuff
 * [**GruntJS**](http://gruntjs.com)
 * [**Bower**](http://bower.io)
-* [**Yeoman**](http://yeoman.io): (includes both GruntJS & Bower) enable fast scaffolding of
+* [**Yeoman**](http://yeoman.io): (includes both GruntJS & Bower) enable fast scaffolding of webapps (with & without JS Frameworks)
 * [**SASS**](http://http://sass-lang.com/) (+ [**Compass**](http://compass-style.org/) or [**Bourbon**](http://bourbon.io))
 
 ## What else ?
