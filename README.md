@@ -11,7 +11,7 @@ This year has been an important one for me, in terms of of new skills & new tool
 * [**Alfred**](http://www.alfredapp.com)    THE launcher app. Don't launch any app with the mouse. Never again.
 * [**Sublime Text 2**](http://sublimetext.com) Does it need to be introduced ? Check [my config repo](https://github.com/ayamflow/sublime-text-config).
 * [**MAMP Pro**](http://www.mamp.info/en/mamp-pro/) Easy local host setting like http://my-project.dev
-* [**Divvy**](http://mizage.com/divvy/) Manage your windows with keyboard shortcut (like half screen, a third, etc).
+* [**Spectacles**](http://spectacleapp.com/) Manage your windows with keyboard shortcut (like half screen, a third, etc).
 * [**Dash**](http://kapeli.com/dash) Gather all documentations in one place.
 * [**iTerm2**](http://www.iterm2.com/) Better Mac OS X Terminal, with split panels.
 * [**Tower**](http://www.git-tower.com/) Git GUI (useful for history)
